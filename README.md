@@ -1,4 +1,6 @@
-### Hlo
+### hlo
+
+- 🌱 I’m currently learning to use computers
 
 <!--
 **lepisma/lepisma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
