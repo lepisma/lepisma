@@ -1,6 +1,6 @@
 ### hlo
 
-🌱 I’m currently learning how to make computers manipulate me to think that i am manipulating them
+I’m currently learning how to make computers manipulate me to think that i am manipulating them
 
 <!--
 **lepisma/lepisma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
